@@ -1,7 +1,7 @@
 {
   "name": "elysian-bot",
   "version": "1.0.0",
-  "description": "My own Discord bot",
+  "description": "ShadeDB",
   "main": "bot.js",
   "author": "ShadeBytes",
 
