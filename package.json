@@ -4,12 +4,12 @@
   "description": "My own Discord bot",
   "main": "bot.js",
   "author": "ShadeBytes",
+
   "dependencies": {
     "discord.io": "^2.5.3",
     "winston": "^2.4.0",
-
     "scripts": {
-      "start": "node bot.js",
+      "start": "node bot.js"
     }
   }
 }
